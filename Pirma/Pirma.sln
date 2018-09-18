@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pirma", "Pirma\Pirma.csproj", "{935B4218-AA77-419D-8976-F48D71034CC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{935B4218-AA77-419D-8976-F48D71034CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935B4218-AA77-419D-8976-F48D71034CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935B4218-AA77-419D-8976-F48D71034CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935B4218-AA77-419D-8976-F48D71034CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1623DF5F-4984-44E2-84F1-DDF2F057C40E}
+	EndGlobalSection
+EndGlobal

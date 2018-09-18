@@ -1,0 +1,15 @@
+﻿Žodis yra palindromas jeigu jis yra rašomas vienodai iš abiejų pusių. Parašykite programą kuri tikrintų duotus žodžius ar jie yra palindromai.
+Vartotojas įveda žodį programa išveda ar tas žodis yra palindromas.
+Input: string
+Output: bool
+Example:
+Adam
+False
+Madam
+True
+Yoy
+True
+Fish
+False
+asdfghhgfdsa
+True

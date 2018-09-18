@@ -1,0 +1,14 @@
+﻿Parašykite programą kuri sukonstruotų didžiausią galimą skaičių iš duotų skaičių.
+Programa turi surasti kokį didžiausią skaičių galima gauti sujungus duotus skaičius. Pvz.: 3 96 9 5 -> 99653 kur 9 96 5 3 buvo sujungti
+Input int[]
+Output string
+Example:
+Input:
+3 96 9 5
+Output:
+99653
+
+Input:
+10 68 75 7 21 12
+Output:
+77568211210

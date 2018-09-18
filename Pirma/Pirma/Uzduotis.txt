@@ -1,0 +1,7 @@
+﻿Parašykite Hello World programą.
+Input: none
+Output:
+Hello world!
+Tai yra mano pirmas testas.
+Tikiuosi man jis pasiseks.
+2+2=4!

@@ -1,0 +1,24 @@
+﻿Uždavinys su monetomis
+
+Duotas neribotas kiekis monetų (nurodyti nominalai). Rasti, kiek yra skirtingų būdų sumokėti nurodytą sumą.
+
+Vartojojas pirmiausia įveda skaičių masyvą, kuriame išvardinami monetų nominalai, tada - kokią sumą reikia surinkti. 
+Programa turi suskaičiuoti ir išvesti, kiek yra skirtingų būdų surinkti šią sumą. 
+
+Pavyzdys:
+Įvestis:
+1 3 5 7
+8
+
+Išvestis:
+6
+
+Įvestis:
+1 2 3
+4
+
+Išvestis:
+4
+
+Neprivaloma užduotis papildomam balui:
+Išvesti visus skirtingus būdus didėjimo tvarka (pradedant nuo mažiausio nominalo ir mažiausio kiekio monetų)
