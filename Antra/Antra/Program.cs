@@ -21,6 +21,7 @@ namespace Antra
         this.skaicius = skaicius;
       }
 
+      
     }
   
 
@@ -37,7 +38,7 @@ namespace Antra
       var zodziai = eilutes.Split('\n');
       var kiekZodziu = zodziai.Count();
 
-      var spalvosKiekiai = new Dictionary<string, int>(); // SITAM reik splittint key per viduril. R 5 \n B 10 ir pan.
+      var spalvosKiekiai = new Dictionary<string, int>(); // SITAM reik splittint key per viduri
       
      foreach (var zodis in zodziai)
       {
@@ -51,10 +52,7 @@ namespace Antra
         }
         }
 
-      foreach (var isskiriam in spalvosKiekiai)
-      {
-        isskiriam.Key.Split(' ');
-      }
+     new Struktura()
 
 
       Console.ReadLine();
